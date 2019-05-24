@@ -6,3 +6,6 @@ A Personal Collection of Developer Articles for References and Best Practices
 
 ## GIT
 1. [A successful Git branching model by Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/)
+
+## Other Links
+1. [The Twelve-Factor App](https://12factor.net/)

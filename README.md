@@ -9,3 +9,7 @@ A Personal Collection of Developer Articles for References and Best Practices
 
 ## Other Links
 1. [The Twelve-Factor App](https://12factor.net/)
+
+## Projects to Refer
+1. [Web Synths](https://www.websynths.com/#)
+2. [TunaJs](https://github.com/Theodeus/tuna)

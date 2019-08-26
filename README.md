@@ -21,6 +21,9 @@ A Personal Collection of Developer Articles/Videos for References and Best Pract
 ## Other Links
 1. [The Twelve-Factor App](https://12factor.net/)
 
-## Projects to Refer
+## Projects to Refer/See
 1. [Web Synths](https://www.websynths.com/#)
 2. [TunaJs](https://github.com/Theodeus/tuna)
+3. [Filmmaker - Tao Tajima](http://taotajima.jp/)
+4. [Three.js](https://threejs.org/)
+5. [Inside Music](https://experiments.withgoogle.com/webvr/inside-music/view/)

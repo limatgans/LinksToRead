@@ -7,11 +7,16 @@ A Personal Collection of Developer Articles/Videos for References and Best Pract
 ## GIT
 1. [A successful Git branching model by Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/)
 
+## JS
+1. [Answering Tricky JS Interview Questions | Russell Anderson](https://www.youtube.com/watch?v=MY0UBGX2FtA)
+
 ## NodeJS
 1. [What the heck is the event loop anyway? | Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
-## JS
-1. [Answering Tricky JS Interview Questions | Russell Anderson](https://www.youtube.com/watch?v=MY0UBGX2FtA)
+## Streams
+1. [A Guide to Faster Web App I/O and Data Operations with Streams | SitePen](https://www.sitepen.com/blog/a-guide-to-faster-web-app-io-and-data-operations-with-streams/)
+2. [NodeJS Streams - Everything You Need to Know | FreeCodeCamp](https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93)
+3. [Stream Handbook | Substack](https://github.com/substack/stream-handbook)
 
 ## Redux
 1. [Mark Erikson - The Fundamentals of Redux](https://www.youtube.com/watch?v=ewelU8WHXQ4)

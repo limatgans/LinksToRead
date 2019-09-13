@@ -9,6 +9,7 @@ A Personal Collection of Developer Articles/Videos for References and Best Pract
 
 ## JS
 1. [Answering Tricky JS Interview Questions | Russell Anderson](https://www.youtube.com/watch?v=MY0UBGX2FtA)
+2. [The WHY behind the WAT: An explanation of JavaScript’s type system](https://medium.com/dailyjs/the-why-behind-the-wat-an-explanation-of-javascripts-weird-type-system-83b92879a8db)
 
 ## NodeJS
 1. [What the heck is the event loop anyway? | Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)

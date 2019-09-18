@@ -33,3 +33,4 @@ A Personal Collection of Developer Articles/Videos for References and Best Pract
 3. [Filmmaker - Tao Tajima](http://taotajima.jp/)
 4. [Three.js](https://threejs.org/)
 5. [Inside Music](https://experiments.withgoogle.com/webvr/inside-music/view/)
+6. [staggering beauty](http://www.staggeringbeauty.com/)
